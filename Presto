@@ -1,6 +1,6 @@
 package if_else_if_allievo; import java.util.Scanner;
 
-public class If_else_if_allievo { public static void main(String[] args) { int age;
+public class If_else_if_allievo { public static void main(String[] args) { int age; //add 10 more lines of code
 Scanner inputDevice = new Scanner( System.in );
 System.out.print( "Please enter Age: " );
 age = inputDevice.nextInt();
